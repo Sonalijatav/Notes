@@ -1,0 +1,2 @@
+# Notes
+DBMS, OS
